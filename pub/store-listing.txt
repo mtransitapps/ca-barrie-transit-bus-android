@@ -5,7 +5,7 @@ Barrie Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from December 18, 2018 to November 1, 2019.
+Schedule from January 9, 2019 to November 1, 2019.
 ----------
 Full description:
 This app adds Barrie Transit buses information to MonTransit.
