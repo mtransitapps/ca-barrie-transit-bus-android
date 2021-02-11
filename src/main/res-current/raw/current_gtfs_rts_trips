@@ -1,20 +1,24 @@
-100,0,'A Georgian Mall',1
-101,0,'B Welham',1
-200,0,'A Dunlop',2
-201,0,'B Pk Pl',2
-300,0,'A Bayview',3
-301,0,'B Painswick',3
-400,0,'A East Bayfield',4
-401,0,'B South Go',4
-500,0,'A Edgehill',5
-501,0,'B Wellington',5
-600,0,'A Letitia',6
-601,0,'B College',6
-700,0,'A Grv',7
-701,0,'B Bear Crk',7
-800,0,'A Rvh/Yonge',8
-801,0,'B Crosstown/Essa',8
-1100,0,'A Allandale Rec',11
-1101,0,'B Lockhart',11
-10001,0,'Blue Express',100
-10000,0,'Red Express',100
+1000100,0,'Georgian Mall',10001
+1000200,0,'Downtown Barrie Term',10002
+1000300,0,'Downtown Barrie Term',10003
+1000400,0,'Georgian Mall',10004
+1000500,0,'Sproule & Kraus',10005
+1000600,0,'Downtown Barrie Term',10006
+1000700,0,'Georgian College',10007
+1000800,0,'Georgian College',10008
+1000801,0,'Pk Pl',10008
+1001100,0,'Allandale Rec',10011
+1010000,0,'Downtown Barrie Term',10100
+2000100,0,'Pk Pl',20001
+2000200,0,'Pk Pl',20002
+2000300,0,'Barrie S GO',20003
+2000400,0,'Barrie S GO',20004
+2000500,0,'Downtown Barrie Term',20005
+2000600,0,'Downtown Barrie Term',20006
+2000700,0,'Pk Pl',20007
+2000801,0,'Georgian College',20008
+2000800,0,'Pk Pl',20008
+2001100,0,'Lockhart',20011
+2010000,0,'Downtown Barrie Term',20100
+3010000,0,'Downtown Barrie Term',30100
+4010000,0,'Downtown Barrie Term',40100
