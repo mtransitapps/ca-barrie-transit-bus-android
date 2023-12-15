@@ -42,7 +42,6 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- GTFS REAL TIME PROVIDER -->
-        <!-- TODO enable when Feature GTFS_ID_HASH_INT is ON
         <provider
             android:name="org.mtransit.android.commons.provider.GTFSRealTimeProvider"
             android:authorities="@string/gtfs_real_time_authority"
@@ -56,6 +55,5 @@
                 android:name="@string/service_update_provider_target"
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
-        -->
     </application>
 </manifest>
