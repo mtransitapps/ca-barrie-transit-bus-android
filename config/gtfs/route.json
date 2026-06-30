@@ -1,6 +1,12 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_as_route_id": true,
+    "route_id_previous_char_configs": [
+        {
+            "char": "KP",
+            "id_part": 1116000
+        }
+    ],
     "direction_finder_enabled": true,
     "trip_headsign_cleaners": [
         {
